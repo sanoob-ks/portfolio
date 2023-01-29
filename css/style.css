@@ -57,6 +57,9 @@ img{
 
 
 /* CSS Document */
+.proCard{
+	height: 100px;
+}
 header {
     position: absolute;
     z-index: 9;
